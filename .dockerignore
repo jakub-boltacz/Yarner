@@ -1,0 +1,8 @@
+node_modules
+dist
+yarn_stash.db
+yarn_stash.db-journal
+yarn_stash.db-wal
+.git
+.DS_Store
+*.log

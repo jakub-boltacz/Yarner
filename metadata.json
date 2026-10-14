@@ -1,0 +1,6 @@
+{
+  "name": "Yarner",
+  "description": "An elegant, interactive inventory database for managing and cataloging yarn skeins, including brand, name, colorway, weight class, yardage, quantity, and custom notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
